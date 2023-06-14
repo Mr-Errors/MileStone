@@ -1,0 +1,197 @@
+Mining:
+    title: ":offset_-8::mining_milestone:"
+    rows: 5
+    leaderboard:
+        slot: 42
+        name: ""
+        material: ladder
+        lore:
+        - ""
+        - ""
+    information:
+        slot: 40
+        name: ""
+        material: ladder
+        lore:
+        - ""
+        - ""
+    exit:
+        slot: 38
+        name: ""
+        lore:
+        - ""
+        - ""
+    items:
+        1:
+            material: lime shulker box
+            slot: 19
+            name: ""
+            lore:
+            - ""
+            - ""
+        2:
+            material: lime shulker box
+            slot: 20
+            name: ""
+            lore:
+            - ""
+            - ""
+        3:
+            material: lime shulker box
+            slot: 21
+            name: ""
+            lore:
+            - ""
+            - ""
+        4:
+            material: lime shulker box
+            slot: 23
+            name: ""
+            lore:
+            - ""
+            - ""
+        5:
+            material: lime shulker box
+            slot: 24
+            name: ""
+            lore:
+            - ""
+            - ""
+        6:
+            material: lime shulker box
+            slot: 25
+            name: ""
+            lore:
+            - ""
+            - ""
+PlayTime:
+    title: ":offset_-8::playtime_milestone:"
+    rows: 5
+    skull:
+        slot: 40
+        name: ""
+        material: skull of player
+        lore:
+        - ""
+        - ""
+    information:
+        slot: 42
+        name: ""
+        material: ladder
+        lore:
+        - ""
+        - ""
+    exit:
+        slot: 38
+        name: ""
+        lore:
+        - ""
+        - ""
+    items:
+        1:
+            material: lime shulker box
+            slot: 19
+            name: ""
+            lore:
+            - ""
+            - ""
+        2:
+            material: light blue shulker box
+            slot: 20
+            name: ""
+            lore:
+            - ""
+            - ""
+        3:
+            material: yellow shulker box
+            slot: 21
+            name: ""
+            lore:
+            - ""
+            - ""
+        4:
+            material: orange shulker box
+            slot: 23
+            name: ""
+            lore:
+            - ""
+            - ""
+        5:
+            material: red shulker box
+            slot: 24
+            name: ""
+            lore:
+            - ""
+            - ""
+        6:
+            material: purple shulker box
+            slot: 25
+            name: ""
+            lore:
+            - ""
+            - ""
+ Fishing:
+    title: ":offset_-8::fishing_milestone:"
+    rows: 5
+    leaderboard:
+        slot: 42
+        name: ""
+        material: ladder
+        lore:
+        - ""
+        - ""
+    information:
+        slot: 40
+        name: ""
+        material: book
+        lore:
+        - ""
+        - ""
+    exit:
+        slot: 38
+        name: ""
+        lore:
+        - ""
+    items:
+        1:
+            material: light blue shulker box
+            slot: 19
+            name: ""
+            lore:
+            - ""
+            - ""
+        2:
+            material: light blue shulker box
+            slot: 20
+            name: ""
+            lore:
+            - ""
+            - ""
+        3:
+            material: light blue shulker box
+            slot: 21
+            name: ""
+            lore:
+            - ""
+            - ""
+        4:
+            material: light blue shulker box
+            slot: 23
+            name: ""
+            lore:
+            - ""
+            - ""
+        5:
+            material: light blue shulker box
+            slot: 24
+            name: ""
+            lore:
+            - ""
+            - ""
+        6:
+            material: light blue shulker box
+            slot: 25
+            name: ""
+            lore:
+            - ""
+            - ""
